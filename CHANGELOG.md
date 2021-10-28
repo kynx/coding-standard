@@ -24,7 +24,7 @@ All notable changes to this project will be documented in this file, in reverse 
 
 - Nothing.
 
-## 1.2.3 - TBD
+## 1.2.4 - TBD
 
 ### Added
 
@@ -45,6 +45,28 @@ All notable changes to this project will be documented in this file, in reverse 
 ### Fixed
 
 - Nothing.
+
+## 1.2.3 - 2021-10-28
+
+### Added
+
+- Nothing.
+
+### Changed
+
+- Nothing.
+
+### Deprecated
+
+- Nothing.
+
+### Removed
+
+- Nothing.
+
+### Fixed
+
+- [#153](https://github.com/webimpress/coding-standard/pull/153) fixes calculating spaces before double arrow in arrays - `Arrays\DoubleArrow` sniff.
 
 ## 1.2.2 - 2021-04-12
 
